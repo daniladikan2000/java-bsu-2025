@@ -1,13 +1,10 @@
-../.idea/
-../*.iml
-../*.iws
-
 .idea/
 *.iml
 *.iws
 
+lab-1-task/out/
 *.class
-out/
+
 build/
 target/
 .gradle/
