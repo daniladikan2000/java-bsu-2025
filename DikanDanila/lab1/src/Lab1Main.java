@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-public class Main {
+public class Lab1Main {
     public static void main(String[] args) {
         ElectronicProduct p1_phone = new ElectronicProduct("E01", "Смартфон", 120);
         ElectronicProduct p2_laptop = new ElectronicProduct("E02", "Ноутбук", 180);
